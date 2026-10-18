@@ -1,0 +1,6 @@
+{
+  "name": "Kriday — Gems & Jeweler Marketplace",
+  "description": "Handcrafted fine jewellery and gemstones from independent artisans on Kriday Gems & Jeweler Marketplace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
